@@ -5,7 +5,7 @@
 - ❤️‍🔥 My main development interest areas are Decentralized Finance Smart Contracts with a strong focus on Automated Market Maker design, as well as Smart Contract Security.
 - 🫂 Assisted 3 different DeFi projects in reaching production launch, namely leading the Product/Engineering team at Poolshark Labs, and have been an active contributor in several other projects. 
 - 🔎 Currently assisting Coverage Labs as a Security Researcher. Security? We cover it!
-- 🤝 I’m actively looking to collaborate on anything DeFi and security related. Let's keep it permissionless!
+- 🤝 I’m actively looking to collaborate on anything DeFi and security related. Let's keep it permissionless! [My CV](https://docs.google.com/document/d/1gtrNp_l8klm17UmZhCUoZFsQ0bL5fxklP5hR7Mhu_Rc/edit?usp=sharing)
 - 📫 Ask me anything! You can reach me at [0xnexusflip@gmail.com](mailto:0xnexusflip@gmail.com) or via [Telegram](https://t.me/zeroxnexus).
 
 #### 🤓 The tech I use
