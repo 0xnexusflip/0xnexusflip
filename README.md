@@ -60,7 +60,7 @@
 - **What I did:** Developed a high-performing TypeScript SDK to calculate option greeks as well as expected user financial returns. Also refactored their Subgraph iteration, as well as greatly assisting with adding functionalities to their dapp
 - **Source Code:** [options_sdk](https://github.com/0xnexusflip/options-sdk/)
 
-### Major Accolades
+### 💯 Major Accolades
 - 🦈 Led the Product team at Poolshark Protocol to a very successful launch, amassing 1MM+ in TVL in a bear market. Greatly optimized their in‑house processes, did major development contributions for their dapp and having heavy involvement with the protocol design and smart contract development for their Cover, Limit and Range Pool products, as well as raising over 900k in investments.
 - 🫠 Assisted Fractality (formerly Y2K Finance) with enabling major codebase optimizations and resolving 100+ bugs in the process, as well as creating an extensive testing suite to ensure security and helping with major code contributions to the smart contract scope of the V1 and V2 of the protocol; resulting in a 10MM TVL peak in the midst of a bear market.
 - 🌅 Automated airdrop distribution of NEWO to thousands of New Order DAO token holders, mitigating human interaction during said process.
