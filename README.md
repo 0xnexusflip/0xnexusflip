@@ -25,7 +25,7 @@
 - Zustand
 - Apollo Client
 
-#### 💻 Some work you might know me for
+### 💻 Some work you might know me for
 
 **🦈 Poolshark Protocol - A directional AMM with native liquidity primitives**
 - **Roles:** Technical Lead, Fullstack Engineer, Lead Business Developer
