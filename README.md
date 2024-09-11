@@ -38,7 +38,7 @@
 - **Limit Pools:** [limit](https://github.com/poolshark-protocol/limit)
 - **Range Pools:** [range](https://github.com/poolshark-protocol/range)
 
-**🫠 Fractality (formerly Y2K Finance) - An ERC-4626 prediction market for pegged assets**
+**🫠 Y2K Finance (now Fractality) - An ERC-4626 prediction market for pegged assets**
 - **Roles:** Smart Contract Engineer
 - **Website:** [Y2K Finance](https://www.y2k.finance/)
 - **What I did:** Major contributions to the V1 and V2 iterations of the Earthquake smart contract scopes
@@ -62,7 +62,7 @@
 
 ### 💯 Major Accolades
 - 🦈 Led the Product team at Poolshark Protocol to a very successful launch, amassing 1MM+ in TVL in a bear market. Greatly optimized their in‑house processes, did major development contributions for their dapp and having heavy involvement with the protocol design and smart contract development for their Cover, Limit and Range Pool products, as well as raising over 900k in investments.
-- 🫠 Assisted Fractality (formerly Y2K Finance) with enabling major codebase optimizations and resolving 100+ bugs in the process, as well as creating an extensive testing suite to ensure security and helping with major code contributions to the smart contract scope of the V1 and V2 of the protocol; resulting in a 10MM TVL peak in the midst of a bear market.
+- 🫠 Assisted Y2K Finance (now Fractality) with enabling major codebase optimizations and resolving 100+ bugs in the process, as well as creating an extensive testing suite to ensure security and helping with major code contributions to the smart contract scope of the V1 and V2 of the protocol; resulting in a 10MM TVL peak in the midst of a bear market.
 - 🌅 Automated airdrop distribution of NEWO to thousands of New Order DAO token holders, mitigating human interaction during said process.
 - 💹 Created a TypeScript options SDK to handle options greeks and financial returns math for IVX Finance for which all options related protocols can wrap around their respective SDKs. Added several co-dependent stack functionalities to their dapp and refactored their Subgraph to include 50+ needed datapoints.
 - 🔍 Found 50+ vulnerabilities and optimizations during two security audits of the Hex One Protocol with Coverage Labs - a security auditing firm - which greatly improved the projects' robustness. Ensured the robustness of the protocols’ invariants through enforcing two different Invariant Testing setups with Echidna stateful fuzzing which unveiled 10+ vulnerabilities.
