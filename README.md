@@ -11,8 +11,9 @@
 #### 🤓 The tech I use
 - Solidity
 - Foundry
+- Hardhat
 - Echidna
-- Slither
+- Slither/Slitherin
 - Rust
 - TypeScript/JavaScript
 - GraphQL
