@@ -4,7 +4,7 @@
 - 🕵🏿 Smart Contract/Fullstack Engineer with 10+ years of development experience and 2 years of Blockchain engineering experience.
 - ❤️‍🔥 My main development interest areas are Decentralized Finance Smart Contracts with a strong focus on Automated Market Maker design, as well as Smart Contract Security.
 - 🫂 Assisted 3 different DeFi projects in reaching production launch, namely leading the Product/Engineering team at Poolshark Labs, and have been an active contributor in several other projects. 
-- 🔎 Currently assisting bera.buzz as a Smart Contract Engineer, as well as Coverage Labs as a Security Researcher.
+- 🔎 Currently assisting bera.buzz as a Smart Contract Engineer.
 - 🤝 I’m actively looking to collaborate on anything DeFi and security related. Let's keep it permissionless! [My CV](https://docs.google.com/document/d/13vQkV5Q1rJr3vEjlZ_20pcpExPRVrRP_EHE_sN2N_IE/edit?usp=sharing)
 - 📫 Ask me anything! You can reach me at [0xnexusflip@gmail.com](mailto:0xnexusflip@gmail.com) or via [Telegram](https://t.me/zeroxnexus).
 
@@ -43,6 +43,7 @@
 - **Roles:** Smart Contract Engineer
 - **Website:** [Y2K Finance](https://www.y2k.finance/)
 - **What I did:** Major contributions to the V1 and V2 iterations of the Earthquake smart contract scopes
+- **Dapp:** [Y2K Finance Dapp](https://www.app.y2k.finance/)
 - **Source Code:** [Earthquake](https://github.com/Y2K-Finance/Earthquake)
 
 **🔍 Coverage Labs - A web3 security firm**
@@ -51,14 +52,22 @@
 - **Website:** [Coverage Labs](https://www.coveragelabs.io/)
 - **Reviews I participated in:** [Hex One Protocol Audits](https://github.com/coveragelabs/portfolio/tree/main/reports)
 
+**🐝 bera.buzz - A token launchpad leveraging customization and Proof of Liquidity**
+- **Roles:** Smart Contract Engineer
+- **Website/Dapp:** [bera.buzz](https://bera.buzz/)
+- **What I did:** Refactored the exponential bonding curve and token deployment mechanisms within the smart contract scope for the project, designed and built several other features from the ground up, found and remediated several security vulnerabilities within scope
+
 **🌅 New Order DAO - A decentralized incubator for Web3 projects**
 - **Roles:** Integrations Engineer
 - **What I did:** Developed a Subgraph for 10+ token airdrop distribution data endpoints, as well as a CSV user reward data script in order to automate distribution
+- **Website:** [New Order DAO](https://www.neworder.network/)
 - **Source Code:** [venewo_rewards_subgraph](https://github.com/0xnexusflip/venewo-rewards-subgraph)
 
 **💹 IVX Finance - An options protocol for zero-day options**
 - **Roles:** Fullstack Engineer
+- **Website:** [IVX Finance](https://ivx.fi/)
 - **What I did:** Developed a high-performing TypeScript SDK to calculate option greeks as well as expected user financial returns. Also refactored their Subgraph iteration, as well as greatly assisting with adding functionalities to their dapp
+- **Dapp:** [IVX Finance Dapp](https://bartio.ivx.fi/)
 - **Source Code:** [options_sdk](https://github.com/0xnexusflip/options-sdk/)
 
 ### 💯 Major Accolades
@@ -67,4 +76,5 @@
 - 🌅 Automated airdrop distribution of NEWO to thousands of New Order DAO token holders, mitigating human interaction during said process.
 - 💹 Created a TypeScript options SDK to handle options greeks and financial returns math for IVX Finance for which all options related protocols can wrap around their respective SDKs. Added several co-dependent stack functionalities to their dapp and refactored their Subgraph to include 50+ needed datapoints.
 - 🔍 Found 50+ vulnerabilities and optimizations during two security audits of the Hex One Protocol with Coverage Labs - a security auditing firm - which greatly improved the projects' robustness. Ensured the robustness of the protocols’ invariants through enforcing two different Invariant Testing setups with Echidna stateful fuzzing which unveiled 10+ vulnerabilities.
+- 🐝 Refactored the core functionalities for the bera.buzz smart contract scope, namely the exponential bonding curve and token deployment mechanisms, as well as building several features from the ground up and greatly optimizing the scope by finding and resolving several security vulnerabilities
 
