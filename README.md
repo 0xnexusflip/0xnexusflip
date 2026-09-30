@@ -1,9 +1,7 @@
 ### Hi, I'm nexusflip 😎
 
 - 🕵🏿 Smart Contract Engineer with 10+ years of development experience and 4 years of Blockchain engineering experience.
-- ❤️‍🔥 I build DeFi smart contracts: AMM design (Uniswap V4 hooks, Algebra Integral plugins, DEX aggregation), token launchpads and tokenomics (bonding curves, option tokens, ICO tooling), and Smart Contract Security (audits, stateful fuzzing, invariant testing).
-- 📈 I have built and shipped contracts for DeFi protocols that have reached 520MM+ USD in combined peak TVL and 4.4B+ USD in volume.
-- 🫂 Shipped 8 DeFi protocols to production, plus the tooling around them: Subgraphs, SDKs and MCP servers that let AI agents launch and trade onchain.
+- 📈 I have built and shipped contracts for DeFi protocols that have reached 520MM+ USD in combined peak TVL and 4.4B+ USD in volume, across AMM design (Uniswap V4 hooks, Algebra Integral plugins, DEX aggregation, TWAP oracles), vaults and lending (ERC-4626 leveraged CDP vaults, depeg-insurance vaults), tokenomics (vote-escrow, escrowed and option tokens, automated buybacks) and token launches (bonding curves, CREATE3 deployers, ICO tooling).
 - 🤝 Open to collaborate on anything DeFi and security related. Let's keep it permissionless! [My CV](https://docs.google.com/document/d/1gCIW_0UfGRNVzBB83xeRfor_b5__jZlWIjHOsqcq2KI/edit?usp=sharing)
 - 📫 Reach me at [0xnexusflip@gmail.com](mailto:0xnexusflip@gmail.com) or via [Telegram](https://t.me/zeroxnexus).
 
