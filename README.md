@@ -1,8 +1,8 @@
 ### Hi, I'm nexusflip 😎
 
-- 🕵🏿 Smart Contract Engineer with 10+ years of development experience and 4 years of Blockchain engineering experience.
-- 📈 I have built and shipped contracts for DeFi protocols that have reached 600MM+ USD in combined peak TVL and 70B+ USD in volume, across AMM design (Uniswap V4 hooks, Algebra Integral plugins, DEX aggregation, TWAP oracles), vaults and lending (ERC-4626 leveraged CDP vaults, depeg-insurance vaults), tokenomics (vote-escrow, escrowed and option tokens, automated buybacks) and token launches (bonding curves, CREATE3 deployers, ICO tooling).
-- 🤝 Open to collaborate on anything DeFi and security related. Let's keep it permissionless! [My CV](https://docs.google.com/document/d/1gCIW_0UfGRNVzBB83xeRfor_b5__jZlWIjHOsqcq2KI/edit?usp=sharing)
+- 🕵🏿 Smart Contract Engineer with 10+ years of development experience and 4+ years of Blockchain experience.
+- 📈 I have built and shipped contracts for DeFi protocols that have reached $840MM+ in combined peak TVL and $70B+ in volume, across AMM design (Uniswap V4 hooks, Algebra Integral plugins, DEX aggregation), vaults and lending (ERC-4626 leveraged CDP vaults, depeg-insurance vaults), tokenomics (vote-escrow, escrowed and option tokens, automated buybacks) and token launches (bonding curves, ICO tooling).
+- 🤝 Open to collaborate on anything DeFi and security related. Let's keep it permissionless! [My CV](https://docs.google.com/document/d/1e3vN9mSmXF1EW4c11tjNaeSbnbxzosGM8eCCZOuwOC4/edit?tab=t.0)
 - 📫 Reach me at [0xnexusflip@gmail.com](mailto:0xnexusflip@gmail.com) or via [Telegram](https://t.me/zeroxnexus).
 
 #### 🤓 Stack
@@ -11,13 +11,13 @@ Solidity · Foundry · Uniswap V4 · Algebra Integral · Echidna / Medusa / Halm
 
 #### 💯 Highlights
 
-- 🏰 Rewrote the Camelot DEX aggregator, now the default router on every Camelot, Cypher and Sheriff chain, for a DEX with 23B+ USD in 2025 volume across 18+ chains.
-- 🍯 Designed and built Beraborrow's POLLEN tokenomics layer from scratch in 24 days for a CDP that peaked at 423MM USD TVL (4th largest). The POLLEN sale raised 1MM USD at a 42MM USD FDV.
-- 🍯 Hardened Beraborrow's 33 Managed Leveraged Vaults through the 2.7B USD Boyco unlock with a NECT loss-compensation mechanism and 40+ tests.
-- 🫠 Owned the Y2K Earthquake V1 testing and hardening for a protocol that cleared 100MM+ USD in deposits in 6 months and settled 9 live depegs without incident, FTX week and the SVB weekend included.
-- 🔐 Built Cypher's ICO platform, which raised 777 ETH (2.1MM+ USD) from 785 buyers. The CYPH sale sold out its 1.5MM USD cap in under 3 hours with no VCs.
+- 🏰 Rewrote the Camelot DEX aggregator, now the default router on every Camelot, Cypher and Sheriff chain, for a DEX with $23B+ in 2025 volume across 18+ chains.
+- 🍯 Designed and built Beraborrow's POLLEN tokenomics layer from scratch in 24 days for a CDP that peaked at $423MM TVL (4th largest). The POLLEN sale raised $1MM at a $42MM FDV.
+- 🍯 Hardened Beraborrow's 33 Managed Leveraged Vaults with a loss-compensation mechanism using the protocols's stablecoin (NECT) and 40+ tests, holding $430MM+ TVL.
+- 🫠 Owned the Y2K Earthquake V1 testing and hardening for a protocol that cleared $100MM+ in deposits in 6 months and settled 9 live depegs without incident, FTX week and the SVB weekend included.
+- 🔐 Built Cypher's ICO platform, which raised 777 ETH ($2.1MM+) from 785 buyers. The CYPH sale sold out its $1.5MM cap in under 3 hours with no VCs.
 - 🪙 Designed the CYPH token stack: 107MM CYPH (10.7% of supply) escrowed, 3070 option exercises worth 93 ETH towards the protocol's treasury, and 17.2MM CYPH bought back through 890+ automated distributions.
-- 🦈 Led Poolshark Protocol's Product team from a 270-user closed beta to a 5000+ sign-up beta and an Arbitrum Mainnet launch. The FIN public sale sold out 135 WETH (300K USD) in 43 minutes, alongside a 900K+ USD private round.
+- 🦈 Led Poolshark Protocol's Product team from a 270-user closed beta to a 5000+ sign-up beta and an Arbitrum Mainnet launch. The FIN token public sale for the project sold out 135 WETH ($300K) in 43 minutes, alongside a $900K+ private round.
 
 #### 💻 Work
 
